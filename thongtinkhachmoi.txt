@@ -1,0 +1,11 @@
+MaKhach:K16
+HoTen:Huynhvant
+MaSan:sb4
+LoaiSan:5
+NgayDatSan:11/12/2021
+GioBatDau:18h00
+GioKetThuc:19h00
+GiaChoThue:350000
+MaSp:0
+SoLuong:0
+Tong:350000

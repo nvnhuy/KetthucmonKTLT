@@ -1,0 +1,8 @@
+7
+V01		Vo				Doi			20000
+G01		Giay			Doi			250000
+QA		QuanAo			Bo			120000
+B01		Bong			Trai		100000
+N01		Sting			Chai	    10000
+N02		7Up				Chai	    10000
+N03		Pessi			Lon			10000

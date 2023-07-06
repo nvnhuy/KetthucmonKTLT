@@ -1,0 +1,14 @@
+MaSan:SB1
+Loai:5
+TinhTrang:Moi
+GiaChoThue:160000-240000
+
+MaSan:SB2
+Loai:7
+TinhTrang:Moi
+GiaChoThue:400000-800000
+
+MaSan:SB3
+Loai:11
+TinhTrang:Moi
+GiaChoThue:550000-950000

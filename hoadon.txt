@@ -1,0 +1,13 @@
+12
+Y01	   HuynhAnhTuan		11/11/2021    800000		50000
+Y02	   NguyenVanA		11/11/2021	  250000		20000	
+Y03	   NguyenVanB		11/11/2021	  500000		  0
+Y04	   TranVanC			11/11/2021    160000          0
+Y05	   NguyenVanHoang	11/11/2021	  700000		110000
+A06	   NguyenVanY		11/11/2021	  160000		100000
+A07	   TranVanB			11/11/2021    250000		50000
+A08	   NguyenHoangD		11/11/2021    800000		  0
+A09	   VoVanHoang		11/11/2021	  500000          0
+T10	   LeVanABC			11/11/2021    400000          0
+T11	   NguyenTranD	    11/11/2021    400000		70000
+T12	   HuynhVanTeo		11/11/2021	  900000		240000
